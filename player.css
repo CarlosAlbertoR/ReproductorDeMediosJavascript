@@ -1,0 +1,52 @@
+#player{
+    background: rgba(0, 0, 0, .8);
+    border: 1px solid rgba(0, 0, 0, .8);
+    border-radius: 10px;
+    margin: 20px auto;
+    padding: 10px 5px 5px 5px;
+    width: 720px;
+}
+
+#play, #mute{
+    background: #DDDDDD;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 5px 10px;
+    width: 70px;
+}
+
+nav{
+    margin: 5px 0px;
+}
+
+#buttons{
+    float: left;
+    height: 20px;
+    padding-left: 5px;
+    width: 145px;
+}
+
+#navbar{
+    background: #eeeeee;
+    border: 1px solid #cccccc;
+    float: left;
+    height: 16px;
+    margin: 2px 5px;
+    padding: 2px;
+    width: 400px;
+}
+
+#progres{
+    background: lightblue;
+    height: 16px;
+    width: 0px;
+}
+
+.restore{
+    clear: both;
+}
+
+#controlls{
+    margin-left: 250px;
+}
